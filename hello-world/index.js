@@ -1,4 +1,1 @@
-let hello=()=>{
-    console.log("Hello World");
-}
-hello();
+console.log("Hello GitHub!);
